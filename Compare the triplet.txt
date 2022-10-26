@@ -1,0 +1,14 @@
+Problem Compare the triplet
+Logic:
+Begin
+step 1.Input array 1
+step 2.Input array 2
+step 3. Declare Alice andBob as 0.
+compare both the array such that ;
+
+if array1[i]>array2[i]
+     alice++;
+if array[i]<array2[i]
+  bob++;
+step 4: print Alice and Bob
+End
